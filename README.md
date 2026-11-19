@@ -1,4 +1,5 @@
 # Oreo
+Built July–September 2026; published to GitHub in November 2026.
 
 **Oreo is a floating, voice-first AI assistant for macOS that can hold natural conversations and perform a limited set of approved desktop actions.**
 

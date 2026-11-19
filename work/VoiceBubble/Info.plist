@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>VoiceBubble</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.anushvi.voicebubble</string>
+	<key>CFBundleName</key>
+	<string>Oreo</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Oreo listens locally for its name in standby. During conversations, recorded turns are sent to OpenAI.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Oreo uses on-device speech recognition to listen for the name Oreo without sending standby audio to a server.</string>
+</dict>
+</plist>

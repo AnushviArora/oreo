@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Xcode and Swift build output
+DerivedData/
+.build/
+build/
+outputs/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Local secrets and signing material
+.env
+.env.*
+!.env.example
+*.xcconfig
+!*example.xcconfig
+Secrets.*
+credentials.*
+api-keys.*
+*.pem
+*.p12
+*.key
+*.mobileprovision
+
+# Local tooling
+.swiftpm/
+.vscode/
+.idea/
